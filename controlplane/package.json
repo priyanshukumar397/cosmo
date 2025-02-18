@@ -76,7 +76,7 @@
     "lodash": "^4.17.21",
     "nodemailer": "^6.9.11",
     "nuid": "^1.1.6",
-    "octokit": "^3.2.0",
+    "octokit": "^4.1.2",
     "openai": "^4.54.0",
     "p-limit": "^6.1.0",
     "p-retry": "^6.2.0",
