@@ -64,7 +64,7 @@
     "@tanstack/react-table": "^8.9.3",
     "@tanstack/react-virtual": "^3.0.1",
     "@tiptap/extension-placeholder": "2.1.13",
-    "@tiptap/pm": "2.1.13",
+    "@tiptap/pm": "2.11.7",
     "@tiptap/react": "2.1.13",
     "@tiptap/starter-kit": "2.1.13",
     "@wundergraph/cosmo-connect": "workspace:*",
