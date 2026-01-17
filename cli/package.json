@@ -37,7 +37,7 @@
   "dependencies": {
     "@bufbuild/protobuf": "^1.9.0",
     "@connectrpc/connect": "^1.4.0",
-    "@connectrpc/connect-node": "^1.4.0",
+    "@connectrpc/connect-node": "^2.0.0",
     "@graphql-tools/utils": "^10.2.2",
     "@wundergraph/composition": "workspace:*",
     "@wundergraph/cosmo-connect": "workspace:*",
@@ -62,7 +62,7 @@
     "ora": "^8.0.1",
     "pathe": "^1.1.1",
     "picocolors": "^1.0.0",
-    "undici": "^6.19.8"
+    "undici": "^6.23.0"
   },
   "devDependencies": {
     "@types/cli-progress": "^3.11.5",
